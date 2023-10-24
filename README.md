@@ -1,3 +1,3 @@
 # seneth
 website
-![preview](seneth/prew.png)
+![preview](prew.png)
