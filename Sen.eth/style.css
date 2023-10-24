@@ -1,0 +1,29 @@
+body {
+    font-family: "Consolas", monospace;
+    font-size: 14px
+}
+a,
+a:visited {
+    color: #aab5ff;
+}
+body {
+    background-color: rgb(15, 15, 15);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+.username {
+    color: #535353;
+}
+
+.spotify {
+    color: #535353;
+}
+
+.username_link {
+    clear: both;
+    color: white;
+}
